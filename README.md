@@ -18,7 +18,7 @@ Product returns are one of the biggest challenges in e-commerce — driving reve
 The project follows a complete analytics workflow — from raw data to a decision-ready Power BI dashboard — using **SQL, Python, Machine Learning, and Power BI**.
 
 > **Note on scope:** While the project includes a return-risk prediction model, the primary objective and main analytical value of this project is descriptive and diagnostic — identifying *why* returns happen and *where* the business is losing money — rather than achieving high-accuracy prediction. This is reflected in the project title and is discussed further in the Machine Learning section below.
-
+📄 **[Read the full Business Recommendations Report →](./RECOMMENDATIONS.md)**
 ---
 
 ## 🎯 Business Objectives
